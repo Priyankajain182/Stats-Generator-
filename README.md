@@ -1,32 +1,32 @@
-# Laravel Demo for Chart.js with Multiple Datasets
+# Design-Archive
 
-Repository for this video: [Laravel COVID-19 Chart with Multiple Datasets](https://www.youtube.com/watch?v=88nobNsarug)
+This Design Archive project is developed by a student team of JNEC for VATAN TEXTILES under GIZ powered industry-academia connect programme.
+## Motivation
+We as a team developed a keen interest in making things work using web. So, to learn things in better way the best thing is to get your hands dirty in the dev. 
+<br>
+After conducting some discussion sessions with industry we curated a list of issues faced by them due to manual working. And so, we decided to deliver them a handy and simple desktop software.
 
-- - - - -
+## Build status
+All the root functionalities needed for there day to day activities are achieved.
 
-## How to use
+## [Project Demo](https://youtu.be/SKScPsE3oPg)
 
-- Clone the repository with __git clone__
-- Copy __.env.example__ file to __.env__ and edit database credentials there
-- Run __composer install__
-- Run __php artisan key:generate__
-- Run __php artisan migrate --seed__ (it has some seeded data for your testing)
-- That's it: launch the main URL. 
-- Admin's credentials: __admin@admin.com__ - __password__
+### Login Page
+![Login Page](./project-ui/login.png)
 
 
-- - - - -
+### Dashboard
+![Dashboard Page](./project-ui/dashboard.png)
+### Adding new fabric
+![Add Page](./project-ui/add.png)
 
-## License
+### Viewing all the fabrics in store
+![View Page](./project-ui/view.png)
 
-Basically, feel free to use and re-use any way you want.
+### Scanning the code (Under Development)
+![Scan Page](./project-ui/scan.png)
 
-- - - - -
+## Techstack used:
 
-## More from our LaravelDaily Team
-
-- Check out our adminpanel generator [QuickAdminPanel](https://quickadminpanel.com)
-- Read our [Blog with Laravel Tutorials](https://laraveldaily.com)
-- FREE E-book: [50 Laravel Quick Tips (and counting)](https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/)
-- Subscribe to our [YouTube channel Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
-- Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
+1. FrontEnd: HTML,CSS,JS, Bootstrap
+2. BackeEnd: JS, Electron(for the cross platform application)
