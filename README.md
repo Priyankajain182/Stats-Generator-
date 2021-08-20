@@ -2,7 +2,7 @@
 
 
 ### Login Page
-![Login Page](./Stats-Generator-/Screen.png)
+![Login Page](./Stats-Generator-/Screen.jpeg)
 
 
 
